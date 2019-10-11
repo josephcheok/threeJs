@@ -1,7 +1,8 @@
 # threeJs
 
-Experimentation with new Js library
-I wanted to create a Rubiks cube to incorporate into my portfolio website to show that I was a problem solver.
+Experimentation with new Js library.
+
+I wanted to create a Rubiks cube to incorporate into my portfolio website as a symbol of my problem solving abilities.
 I did it with the help of this amazing library.
 
 ## Steps to Creation
